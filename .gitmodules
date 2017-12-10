@@ -1,0 +1,401 @@
+[submodule "nutch"]
+	path = Projects/nutch
+	url = https://github.com/apache/nutch.git
+
+[submodule "bval"]
+	path = Projects/bval
+	url = https://github.com/apache/bval.git
+
+[submodule "camel"]
+	path = Projects/camel
+	url = https://github.com/apache/camel.git
+
+[submodule "gatein-portal"]
+	path = Projects/gatein-portal
+	url = https://github.com/gatein/gatein-portal.git
+
+[submodule "tiles"]
+	path = Projects/tiles
+	url = https://github.com/apache/tiles.git
+
+[submodule "jboss-marshalling"]
+	path = Projects/jboss-marshalling
+	url = https://github.com/jboss-remoting/jboss-marshalling.git
+
+[submodule "maven-indexer"]
+	path = Projects/maven-indexer
+	url = https://github.com/apache/maven-indexer.git
+
+[submodule "cas"]
+	path = Projects/cas
+	url = https://github.com/Jasig/cas.git
+
+[submodule "axis2-java"]
+	path = Projects/axis2-java
+	url = https://github.com/apache/axis2-java.git
+
+[submodule "jackrabbit"]
+	path = Projects/jackrabbit
+	url = https://github.com/apache/jackrabbit.git
+
+[submodule "shindig"]
+	path = Projects/shindig
+	url = https://github.com/apache/shindig.git
+
+[submodule "rtgov"]
+	path = Projects/rtgov
+	url = https://github.com/Governance/rtgov.git
+
+[submodule "shiro"]
+	path = Projects/shiro
+	url = https://github.com/apache/shiro.git
+
+[submodule "maven"]
+	path = Projects/maven
+	url = https://github.com/apache/maven.git
+
+[submodule "spring-data-mongodb"]
+	path = Projects/spring-data-mongodb
+	url = https://github.com/SpringSource/spring-data-mongodb.git
+
+[submodule "archiva"]
+	path = Projects/archiva
+	url = https://github.com/apache/archiva.git
+
+[submodule "openejb"]
+	path = Projects/openejb
+	url = https://github.com/apache/openejb.git
+
+[submodule "httpclient"]
+	path = Projects/httpclient
+	url = https://github.com/apache/httpclient.git
+
+[submodule "vysper"]
+	path = Projects/vysper
+	url = https://github.com/apache/vysper.git
+
+[submodule "empire-db"]
+	path = Projects/empire-db
+	url = https://github.com/apache/empire-db.git
+
+[submodule "cxf-dosgi"]
+	path = Projects/cxf-dosgi
+	url = https://github.com/apache/cxf-dosgi.git
+
+[submodule "syncope"]
+	path = Projects/syncope
+	url = https://github.com/apache/syncope.git
+
+[submodule "spring-batch"]
+	path = Projects/spring-batch
+	url = https://github.com/SpringSource/spring-batch.git
+
+[submodule "any23"]
+	path = Projects/any23
+	url = https://github.com/apache/any23.git
+
+[submodule "portletbridge"]
+	path = Projects/portletbridge
+	url = https://github.com/portletbridge/portletbridge.git
+
+[submodule "commons-compress"]
+	path = Projects/commons-compress
+	url = https://github.com/apache/commons-compress.git
+
+[submodule "errai"]
+	path = Projects/errai
+	url = https://github.com/errai/errai.git
+
+[submodule "chemistry-opencmis"]
+	path = Projects/chemistry-opencmis
+	url = https://github.com/apache/chemistry-opencmis.git
+
+[submodule "maven-scm"]
+	path = Projects/maven-scm
+	url = https://github.com/apache/maven-scm.git
+
+[submodule "maven-archetype"]
+	path = Projects/maven-archetype
+	url = https://github.com/apache/maven-archetype.git
+
+[submodule "pluto"]
+	path = Projects/pluto
+	url = https://github.com/apache/pluto.git
+
+[submodule "servicemix4-specs"]
+	path = Projects/servicemix4-specs
+	url = https://github.com/apache/servicemix4-specs.git
+
+[submodule "weld"]
+	path = Projects/weld
+	url = https://github.com/weld/core.git
+
+[submodule "twitter4j"]
+	path = Projects/twitter4j
+	url = https://github.com/yusuke/twitter4j.git
+
+[submodule "xwiki-rendering"]
+	path = Projects/xwiki-rendering
+	url = https://github.com/xwiki/xwiki-rendering.git
+
+[submodule "tapestry-5"]
+	path = Projects/tapestry-5
+	url = https://github.com/apache/tapestry-5.git
+
+[submodule "jboss-ejb-client"]
+	path = Projects/jboss-ejb-client
+	url = https://github.com/jbossas/jboss-ejb-client.git
+
+[submodule "commons-lang"]
+	path = Projects/commons-lang
+	url = https://github.com/apache/commons-lang.git
+
+[submodule "srt_asterisk-java"]
+	path = Projects/srt_asterisk-java
+	url = https://github.com/srt/asterisk-java.git
+
+[submodule "qpid-proton"]
+	path = Projects/qpid-proton
+	url = https://github.com/apache/qpid-proton.git
+
+[submodule "mahout"]
+	path = Projects/mahout
+	url = https://github.com/apache/mahout.git
+
+[submodule "santuario-java"]
+	path = Projects/santuario-java
+	url = https://github.com/apache/santuario-java.git
+
+[submodule "commons-math"]
+	path = Projects/commons-math
+	url = https://github.com/apache/commons-math.git
+
+[submodule "openjpa"]
+	path = Projects/openjpa
+	url = https://github.com/apache/openjpa.git
+
+[submodule "commons-net"]
+	path = Projects/commons-net
+	url = https://github.com/apache/commons-net.git
+
+[submodule "optaplanner"]
+	path = Projects/optaplanner
+	url = https://github.com/droolsjbpm/optaplanner.git
+
+[submodule "forge"]
+	path = Projects/forge
+	url = https://github.com/forge/core.git
+
+[submodule "s-ramp"]
+	path = Projects/s-ramp
+	url = https://github.com/Governance/s-ramp.git
+
+[submodule "teiid"]
+	path = Projects/teiid
+	url = https://github.com/teiid/teiid.git
+
+[submodule "bookkeeper"]
+	path = Projects/bookkeeper
+	url = https://github.com/apache/bookkeeper.git
+
+[submodule "spring-security-oauth"]
+	path = Projects/spring-security-oauth
+	url = https://github.com/SpringSource/spring-security-oauth.git
+
+[submodule "maven-surefire"]
+	path = Projects/maven-surefire
+	url = https://github.com/apache/maven-surefire.git
+
+[submodule "synapse"]
+	path = Projects/synapse
+	url = https://github.com/apache/synapse.git
+
+[submodule "chukwa"]
+	path = Projects/chukwa
+	url = https://github.com/apache/chukwa.git
+
+[submodule "geronimo-xbean"]
+	path = Projects/geronimo-xbean
+	url = https://github.com/apache/geronimo-xbean.git
+
+[submodule "spring-data-commons"]
+	path = Projects/spring-data-commons
+	url = https://github.com/SpringSource/spring-data-commons.git
+
+[submodule "xwiki-commons"]
+	path = Projects/xwiki-commons
+	url = https://github.com/xwiki/xwiki-commons.git
+
+[submodule "qi4j-core"]
+	path = Projects/qi4j-core
+	url = https://github.com/Qi4j/qi4j-core.git
+
+[submodule "mina"]
+	path = Projects/mina
+	url = https://github.com/apache/mina.git
+
+[submodule "directory-server"]
+	path = Projects/directory-server
+	url = https://github.com/apache/directory-server.git
+
+[submodule "hibernate-search"]
+	path = Projects/hibernate-search
+	url = https://github.com/hibernate/hibernate-search.git
+
+[submodule "jsfunit"]
+	path = Projects/jsfunit
+	url = https://github.com/jsfunit/jsfunit.git
+
+[submodule "james-imap"]
+	path = Projects/james-imap
+	url = https://github.com/apache/james-imap.git
+
+[submodule "myfaces-extcdi"]
+	path = Projects/myfaces-extcdi
+	url = https://github.com/apache/myfaces-extcdi.git
+
+[submodule "gatein-wsrp"]
+	path = Projects/gatein-wsrp
+	url = https://github.com/gatein/gatein-wsrp.git
+
+[submodule "servicemix3"]
+	path = Projects/servicemix3
+	url = https://github.com/apache/servicemix3.git
+
+[submodule "cxf"]
+	path = Projects/cxf
+	url = https://github.com/apache/cxf.git
+
+[submodule "gora"]
+	path = Projects/gora
+	url = https://github.com/apache/gora.git
+
+[submodule "pdfbox"]
+	path = Projects/pdfbox
+	url = https://github.com/apache/pdfbox.git
+
+[submodule "tika"]
+	path = Projects/tika
+	url = https://github.com/apache/tika.git
+
+[submodule "wink"]
+	path = Projects/wink
+	url = https://github.com/apache/wink.git
+
+[submodule "james-mailbox"]
+	path = Projects/james-mailbox
+	url = https://github.com/apache/james-mailbox.git
+
+[submodule "gatein-common"]
+	path = Projects/gatein-common
+	url = https://github.com/gatein/gatein-common.git
+
+[submodule "continuum"]
+	path = Projects/continuum
+	url = https://github.com/apache/continuum.git
+
+[submodule "maven-doxia"]
+	path = Projects/maven-doxia
+	url = https://github.com/apache/maven-doxia.git
+
+[submodule "wildfly"]
+	path = Projects/wildfly
+	url = https://github.com/wildfly/wildfly.git
+
+[submodule "rave"]
+	path = Projects/rave
+	url = https://github.com/apache/rave.git
+
+[submodule "openwebbeans"]
+	path = Projects/openwebbeans
+	url = https://github.com/apache/openwebbeans.git
+
+[submodule "agorava"]
+	path = Projects/agorava
+	url = https://github.com/agorava/agorava-parent.git
+
+[submodule "ode"]
+	path = Projects/ode
+	url = https://github.com/apache/ode.git
+
+[submodule "spring-roo"]
+	path = Projects/spring-roo
+	url = https://github.com/SpringSource/spring-roo.git
+
+[submodule "arquillian-core"]
+	path = Projects/arquillian-core
+	url = https://github.com/arquillian/arquillian-core.git
+
+[submodule "maven-wagon"]
+	path = Projects/maven-wagon
+	url = https://github.com/apache/maven-wagon.git
+
+[submodule "hibernate-validator"]
+	path = Projects/hibernate-validator
+	url = https://github.com/hibernate/hibernate-validator.git
+
+[submodule "myfaces"]
+	path = Projects/myfaces
+	url = https://github.com/apache/myfaces.git
+
+[submodule "spring-data-neo4j"]
+	path = Projects/spring-data-neo4j
+	url = https://github.com/SpringSource/spring-data-neo4j.git
+
+[submodule "james-mime4j"]
+	path = Projects/james-mime4j
+	url = https://github.com/apache/james-mime4j.git
+
+[submodule "wicket"]
+	path = Projects/wicket
+	url = https://github.com/apache/wicket.git
+
+[submodule "james"]
+	path = Projects/james
+	url = https://github.com/apache/james.git
+
+[submodule "jackrabbit-oak"]
+	path = Projects/jackrabbit-oak
+	url = https://github.com/apache/jackrabbit-oak.git
+
+[submodule "whirr"]
+	path = Projects/whirr
+	url = https://github.com/apache/whirr.git
+
+[submodule "ftpserver"]
+	path = Projects/ftpserver
+	url = https://github.com/apache/ftpserver.git
+
+[submodule "karaf"]
+	path = Projects/karaf
+	url = https://github.com/apache/karaf.git
+
+[submodule "hornetq"]
+	path = Projects/hornetq
+	url = https://github.com/hornetq/hornetq.git
+
+[submodule "senseidb_bobo"]
+	path = Projects/senseidb_bobo
+	url = https://github.com/senseidb/bobo.git
+
+[submodule "arquillian-graphene"]
+	path = Projects/arquillian-graphene
+	url = https://github.com/arquillian/arquillian-graphene.git
+
+[submodule "guvnor"]
+	path = Projects/guvnor
+	url = https://github.com/droolsjbpm/guvnor.git
+
+[submodule "commons-io"]
+	path = Projects/commons-io
+	url = https://github.com/apache/commons-io.git
+
+[submodule "struts2"]
+	path = Projects/struts2
+	url = https://github.com/wdev/struts2.git
+
+[submodule "byteman"]
+	path = Projects/byteman
+	url = https://github.com/bytemanproject/byteman.git
+
+
