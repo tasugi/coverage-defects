@@ -2,10 +2,6 @@
 	path = Projects/nutch
 	url = https://github.com/apache/nutch.git
 
-[submodule "bval"]
-	path = Projects/bval
-	url = https://github.com/apache/bval.git
-
 [submodule "camel"]
 	path = Projects/camel
 	url = https://github.com/apache/camel.git
@@ -26,10 +22,6 @@
 	path = Projects/maven-indexer
 	url = https://github.com/apache/maven-indexer.git
 
-[submodule "cas"]
-	path = Projects/cas
-	url = https://github.com/Jasig/cas.git
-
 [submodule "axis2-java"]
 	path = Projects/axis2-java
 	url = https://github.com/apache/axis2-java.git
@@ -46,10 +38,6 @@
 	path = Projects/rtgov
 	url = https://github.com/Governance/rtgov.git
 
-[submodule "shiro"]
-	path = Projects/shiro
-	url = https://github.com/apache/shiro.git
-
 [submodule "maven"]
 	path = Projects/maven
 	url = https://github.com/apache/maven.git
@@ -57,10 +45,6 @@
 [submodule "spring-data-mongodb"]
 	path = Projects/spring-data-mongodb
 	url = https://github.com/SpringSource/spring-data-mongodb.git
-
-[submodule "archiva"]
-	path = Projects/archiva
-	url = https://github.com/apache/archiva.git
 
 [submodule "openejb"]
 	path = Projects/openejb
@@ -78,14 +62,6 @@
 	path = Projects/empire-db
 	url = https://github.com/apache/empire-db.git
 
-[submodule "cxf-dosgi"]
-	path = Projects/cxf-dosgi
-	url = https://github.com/apache/cxf-dosgi.git
-
-[submodule "syncope"]
-	path = Projects/syncope
-	url = https://github.com/apache/syncope.git
-
 [submodule "spring-batch"]
 	path = Projects/spring-batch
 	url = https://github.com/SpringSource/spring-batch.git
@@ -98,10 +74,6 @@
 	path = Projects/portletbridge
 	url = https://github.com/portletbridge/portletbridge.git
 
-[submodule "commons-compress"]
-	path = Projects/commons-compress
-	url = https://github.com/apache/commons-compress.git
-
 [submodule "errai"]
 	path = Projects/errai
 	url = https://github.com/errai/errai.git
@@ -113,10 +85,6 @@
 [submodule "maven-scm"]
 	path = Projects/maven-scm
 	url = https://github.com/apache/maven-scm.git
-
-[submodule "maven-archetype"]
-	path = Projects/maven-archetype
-	url = https://github.com/apache/maven-archetype.git
 
 [submodule "pluto"]
 	path = Projects/pluto
@@ -146,29 +114,13 @@
 	path = Projects/jboss-ejb-client
 	url = https://github.com/jbossas/jboss-ejb-client.git
 
-[submodule "commons-lang"]
-	path = Projects/commons-lang
-	url = https://github.com/apache/commons-lang.git
-
 [submodule "srt_asterisk-java"]
 	path = Projects/srt_asterisk-java
 	url = https://github.com/srt/asterisk-java.git
 
-[submodule "qpid-proton"]
-	path = Projects/qpid-proton
-	url = https://github.com/apache/qpid-proton.git
-
-[submodule "mahout"]
-	path = Projects/mahout
-	url = https://github.com/apache/mahout.git
-
 [submodule "santuario-java"]
 	path = Projects/santuario-java
 	url = https://github.com/apache/santuario-java.git
-
-[submodule "commons-math"]
-	path = Projects/commons-math
-	url = https://github.com/apache/commons-math.git
 
 [submodule "openjpa"]
 	path = Projects/openjpa
@@ -246,10 +198,6 @@
 	path = Projects/jsfunit
 	url = https://github.com/jsfunit/jsfunit.git
 
-[submodule "james-imap"]
-	path = Projects/james-imap
-	url = https://github.com/apache/james-imap.git
-
 [submodule "myfaces-extcdi"]
 	path = Projects/myfaces-extcdi
 	url = https://github.com/apache/myfaces-extcdi.git
@@ -262,29 +210,13 @@
 	path = Projects/servicemix3
 	url = https://github.com/apache/servicemix3.git
 
-[submodule "cxf"]
-	path = Projects/cxf
-	url = https://github.com/apache/cxf.git
-
-[submodule "gora"]
-	path = Projects/gora
-	url = https://github.com/apache/gora.git
-
 [submodule "pdfbox"]
 	path = Projects/pdfbox
 	url = https://github.com/apache/pdfbox.git
 
-[submodule "tika"]
-	path = Projects/tika
-	url = https://github.com/apache/tika.git
-
 [submodule "wink"]
 	path = Projects/wink
 	url = https://github.com/apache/wink.git
-
-[submodule "james-mailbox"]
-	path = Projects/james-mailbox
-	url = https://github.com/apache/james-mailbox.git
 
 [submodule "gatein-common"]
 	path = Projects/gatein-common
@@ -301,10 +233,6 @@
 [submodule "wildfly"]
 	path = Projects/wildfly
 	url = https://github.com/wildfly/wildfly.git
-
-[submodule "rave"]
-	path = Projects/rave
-	url = https://github.com/apache/rave.git
 
 [submodule "openwebbeans"]
 	path = Projects/openwebbeans
@@ -350,10 +278,6 @@
 	path = Projects/wicket
 	url = https://github.com/apache/wicket.git
 
-[submodule "james"]
-	path = Projects/james
-	url = https://github.com/apache/james.git
-
 [submodule "jackrabbit-oak"]
 	path = Projects/jackrabbit-oak
 	url = https://github.com/apache/jackrabbit-oak.git
@@ -365,10 +289,6 @@
 [submodule "ftpserver"]
 	path = Projects/ftpserver
 	url = https://github.com/apache/ftpserver.git
-
-[submodule "karaf"]
-	path = Projects/karaf
-	url = https://github.com/apache/karaf.git
 
 [submodule "hornetq"]
 	path = Projects/hornetq
@@ -385,14 +305,6 @@
 [submodule "guvnor"]
 	path = Projects/guvnor
 	url = https://github.com/droolsjbpm/guvnor.git
-
-[submodule "commons-io"]
-	path = Projects/commons-io
-	url = https://github.com/apache/commons-io.git
-
-[submodule "struts2"]
-	path = Projects/struts2
-	url = https://github.com/wdev/struts2.git
 
 [submodule "byteman"]
 	path = Projects/byteman
